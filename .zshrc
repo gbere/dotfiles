@@ -215,6 +215,7 @@ alias httpd-log-access="tail -f /usr/local/var/log/httpd/access_log"
 alias typora="open -a typora"
 alias findstr='grep -rnw . -e '
 alias py='python3'
+alias composer='symfony composer'
 
 export CLICOLOR=1
 
